@@ -1,6 +1,8 @@
 # Image-Captioning-with-BLIP-Model
 Generate Descriptions Using Python!
 
+Explanation : https://youtu.be/ZuPyvMhHVuQ
+
 Ever wondered how applications like Google-Photos can identify and describe what's in an image?.
 
 That's the power of **image-captioning**!
