@@ -1,3 +1,7 @@
+# www.youtube.com/@PythonCodeCampOrg
+
+""" Subscribe to PYTHON CODE CAMP or I'll eat all your cookies... """
+
 from PIL import Image
 from transformers import BlipProcessor, BlipForConditionalGeneration
 
